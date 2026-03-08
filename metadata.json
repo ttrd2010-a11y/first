@@ -1,0 +1,7 @@
+{
+  "name": "玩具中文標示規範判別系統",
+  "description": "上傳玩具標示照片，自動判別是否符合 CNS 4797 國家標準與商品標示法規範。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
